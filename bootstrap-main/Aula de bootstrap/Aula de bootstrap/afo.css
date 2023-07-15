@@ -1,0 +1,52 @@
+body{
+     background-color: #2a4772;
+}
+.d1{
+     background-image: url(iloveimg-compressed/a.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+     height: 700px;
+}
+
+.d1 ion-icon{
+     color: rgb(255, 255, 255);
+     font-size: xx-large;
+}
+
+.d2{
+     height: 700px;
+}
+
+/* .col-6{
+     width: 700px;
+     padding-top: 50px;
+} */
+.d3{
+     height: 400px;
+}
+.d3 > figure{
+     background-image: url(iloveimg-compressed/a.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+h1{
+     font-size: 70px;
+     text-shadow: -1px 1px 1px #000000;
+}
+
+h6{
+     font-size: 30px;
+     text-shadow: -1px 1px 1px #000000;
+}
+.imagem1{
+     height: 600px;
+     border-radius: 50%;
+}
+.imagem2{
+     width: 400px;
+}
+li{
+     list-style: none;
+}
